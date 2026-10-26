@@ -1,5 +1,7 @@
 # 2.20-Gate-Server-Files
 
+> **Archived (2026-10-26).** The 2.20 servers are being recreated as two binaries, Login and World. This repo is kept as found in [2.20-Reference](https://github.com/Original-Helbreath/2.20-Reference) (`as-found/servers/2.20-Gate-Server-Files/`); its open issues moved to `2.20-World-Server-Files`.
+
 Configuration for the Helbreath 2.20 gate server.
 
 ## Contents
